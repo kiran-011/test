@@ -23,7 +23,7 @@ body{
 }
 .banner-1{
     padding:100px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -40,4 +40,5 @@ body{
     font-size: 25px;
     overflow: auto;
     order:1;
+    text-align:justify;
 }
